@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ansh7fe
-- 👀 I’m interested in Blockchain Devlopment
-- 🌱 I’m currently improving my backend skills
+- 👀 I’m interested in Fullstack web and app development.
 - 📫 How to reach me - { LinkedIn:https://www.linkedin.com/in/ansh-jhanwar-76b789217/ ,twitter:https://twitter.com/Anshjhanwar07 }
 
 
