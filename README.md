@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Jhanwar</h1>
-<h3 align="center">Final Year Student Of MNIT,Jaipur interested in Fullstack web and app development</h3>
-
-- 🌱 I’m currently learning **NEXT.JS,Web3**
+<h3 align="center">Software Engineer at TATA AIG</h3>
 
 - 👯 I’m looking to collaborate on **React Projects**
 
